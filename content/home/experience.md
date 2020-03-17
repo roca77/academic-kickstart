@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-02-02"
   date_end = ""
   description = """
-  Responsibilities include:
   
   - Responsible for developing algorithms for classification facial images with distinctive marks
 
@@ -35,12 +34,33 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Sr Data Analyst"
+  company = "JMRS Inc"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto, Canada"
+  date_start = "2018-05-01"
+  date_end = "2019-09-19"
+  description = """
+  - Create Dashboard for marketing recruiters with live data & custom functions
+  - Maintain databases and create data attributes depending on projects
+  - Prepare ad-doc reports and provide analytical support to managers
+  - Perform Analysis on focus groups data using techniques such as regression with multiple variables to produce meaningful reports
+  """
+  
+  
+[[experience]]
+  title = "Business Analyst"
+  company = "Laurentian Bank"
+  company_url = ""
+  location = "Toronto, Canada"
+  date_start = "2015-03-01"
+  date_end = "2018-03-19"
+  description = """
+  - Recommends changes to existing business processes in order to realize (quantifiable) efficiency.
+  - Uses standard measurements or methodologies in order to quantify recommendations.
+  - Identifies opportunities that will increase productivity, improve KPIs, reduce operation cost, errors and processing time, and eliminate activities that add no value
+  - Participates in the elaboration of various large-scale projects and mandates that may have a significant impact on profitability and efficiency.
+  - Designs, develops, elaborates and produces various Internal Communications
+  """
 
 +++
