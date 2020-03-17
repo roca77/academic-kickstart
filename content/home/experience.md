@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "OCAD University"
   company_url = ""
   location = "Toronto, Canada"
-  date_start = "2019-02-"
+  date_start = "2019-02-02"
   date_end = ""
   description = """
   Responsibilities include:
