@@ -27,9 +27,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * - Responsible for developing algorithms for classification facial images with distinctive marks
-  * - Exploring various concepts and applications of machine learning algorithms and develop new and/or customize already existing ML models that can be trained, tested and validated. 
-  * - Responsible for developing handwriting detection algorithms using python and Tensorflow.
+  - Responsible for developing algorithms for classification facial images with distinctive marks
+
+  - Exploring various concepts and applications of machine learning algorithms and develop new and/or customize already existing ML models that can be trained, tested and validated. 
+
+  - Responsible for developing handwriting detection algorithms using python and Tensorflow.
   """
 
 [[experience]]
