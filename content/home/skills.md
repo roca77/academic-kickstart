@@ -21,6 +21,12 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "10%"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -29,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-python"
   icon_pack = "fab"
-  name = "Photography"
+  name = "Python"
   description = "10%"
 
 +++
