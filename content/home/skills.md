@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "10%"
@@ -33,7 +33,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "10%"
