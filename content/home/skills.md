@@ -33,9 +33,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "business-time"
+  icon_pack = "fas"
+  name = "Business Analysis"
   description = "10%"
 
 +++
