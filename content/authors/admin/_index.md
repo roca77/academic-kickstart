@@ -67,7 +67,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Welcome to my portfolio! I currently lead a Machine Learning project at OCAD Univerisity in Toronto, where I manage an international team to analyze tribal scars from the Great continent of Africa. One of the objective of the project is to allow researchers to learn about the scars and their links to slave trade. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+When I am not working on Machine Learning, I might be building a Natural Processing Language application, analyzing retails data for upselling opportinities, or building a Dashboard to data vizualization.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With my unique background in Programming, Finance, Operation Business Analysis, I would like to join a team with a goal of making significant positive impact, delivering game changing data products.
