@@ -25,7 +25,7 @@ weight = 15  # Order that this section will appear.
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
+ # gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
   
   # Background image.
