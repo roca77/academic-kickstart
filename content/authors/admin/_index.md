@@ -18,24 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data analysis, machine learning, and data visualization.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Software Development
+- Business Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Business Metrics for Data-Driven Companies
+    institution: Duke University
+    year: 2016
+  - course: Data Scientist's toolkit
+    institution: John Hopkins University
+    year: 2015
+  - course: Business Analysis
+    institution: Univeristy of Toronto
+    year: 2014
+  - course: Bachelor in Finance & Investments
+    institution: City Univeristy of New York - Baruch College
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
