@@ -25,6 +25,10 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   
+ [[feature]]
+  icon = "cloud-upload-alt"
+  icon_pack = "fas"
+  name = "Cloud"
   
 [[feature]]
   icon = "chart-line"
