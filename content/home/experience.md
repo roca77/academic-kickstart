@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  - Responsible for developing algorithms for classification facial images with distinctive marks
+  - Responsible for developing applications for facial images classification, and NLP.
 
   - Exploring various concepts and applications of machine learning algorithms and develop new and/or customize already existing ML models that can be trained, tested and validated. 
 
@@ -41,10 +41,10 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2019-09-19"
   description = """
-  - Create Dashboard for marketing recruiters with live data & custom functions
-  - Maintain databases and create data attributes depending on projects
-  - Prepare ad-doc reports and provide analytical support to managers
-  - Perform Analysis on focus groups data using techniques such as regression with multiple variables to produce meaningful reports
+  - Created Dashboards for marketing recruiters with live data & custom functions
+  - Maintained databases and created data attributes depending on projects
+  - Prepared ad-doc reports and provided analytical support to managers
+  - Performed Analysis on focus groups data using techniques such as regression with multiple variables to produce meaningful reports
   """
   
   
@@ -56,11 +56,11 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2018-03-19"
   description = """
-  - Recommends changes to existing business processes in order to realize (quantifiable) efficiency.
-  - Uses standard measurements or methodologies in order to quantify recommendations.
-  - Identifies opportunities that will increase productivity, improve KPIs, reduce operation cost, errors and processing time, and eliminate activities that add no value
-  - Participates in the elaboration of various large-scale projects and mandates that may have a significant impact on profitability and efficiency.
-  - Designs, develops, elaborates and produces various Internal Communications
+  - Recommended changes to existing business processes in order to realize (quantifiable) efficiency.
+  - Used standard measurements or methodologies in order to quantify recommendations.
+  - Identified opportunities that will increase productivity, improve KPIs, reduce operation cost, errors and processing time, and eliminated activities that add no value
+  - Participated in the elaboration of various large-scale projects and mandates that may have a significant impact on profitability and efficiency.
+  - Designed, developed, elaborated and produced various Internal Communications
   """
 
 +++
